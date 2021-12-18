@@ -16,4 +16,7 @@
   },
   "homepage": "https://github.com/togiferret/ezdom#readme",
   "description": ""
+  "publishConfig": {
+   "@togiferret:registry": "https://npm.pkg.github.com"
+ }
 }
