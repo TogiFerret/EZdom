@@ -1,0 +1,19 @@
+{
+  "name": "@parthenonchallenge/ezdom",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "exit 0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/togiferret/ezdom.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/togiferret/ezdom/issues"
+  },
+  "homepage": "https://github.com/togiferret/ezdom#readme",
+  "description": ""
+}
